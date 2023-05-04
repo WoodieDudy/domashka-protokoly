@@ -5,56 +5,68 @@ import pickle
 from dnslib import DNSRecord, RCODE
 
 
+# TRUST_SERVER = "8.8.8.8"
+TRUST_SERVER = "77.88.8.1"
+
+
 class DNSServer:
     def __init__(self):
         self.cache = {}
         self.cache_path = "cache.pickle"
 
-
     def load_cache(self):
         try:
             with open(self.cache_path, "rb") as f:
                 data = pickle.load(f)
-                for key, (record, expiry) in data.items():
+                for key, (records, expiry) in data.items():
                     if time.time() < expiry:
-                        self.cache[key] = (record, expiry)
+                        self.cache[key] = (records, expiry)
         except FileNotFoundError:
             print("Cache is empty")
-
 
     def save_cache(self):
         with open(self.cache_path, "wb") as f:
             pickle.dump(self.cache, f)
 
-
-    def update_cache(self, key, record, ttl):
+    def update_cache(self, key, records, ttl):
         expiry = time.time() + ttl
-        self.cache[key] = (record, expiry)
+        self.cache[key] = (records, expiry)
 
-
-    def get_cached_record(self, key):
-        record_data = self.cache.get(key)
-        if record_data:
-            record, expiry = record_data
+    def get_cached_records(self, key):
+        records_data = self.cache.get(key)
+        if records_data:
+            records, expiry = records_data
             if time.time() < expiry:
-                return record
+                return records
             del self.cache[key]
         return None
-
 
     def resolve_query(self, query_data):
         try:
             query = DNSRecord.parse(query_data)
-            cached_record = self.get_cached_record(query.q.qname)
-            if cached_record:
-                return cached_record.pack()
+            query_key = (query.q.qtype, query.q.qname)
+            cached_records = self.get_cached_records(query_key)
+            if cached_records:
+                response_record = DNSRecord(header=query.header)
+                response_record.add_question(query.q)
+                response_record.rr.extend(cached_records)
+                print(f"Found records in cache:\n{response_record}", end="\n\n")
+                return response_record.pack()
 
-            response = query.send("8.8.8.8", 53)
+            print("Waiting for response")
+            response = query.send(TRUST_SERVER, 53, timeout=5)
             response_record = DNSRecord.parse(response)
+            print(f"Received response: {response_record}", end="\n\n")
 
             if response_record.header.rcode == RCODE.NOERROR:
-                for rr in response_record.rr:
-                    self.update_cache(rr.rname, response_record, rr.ttl)
+                records_by_type = {}
+                for rr_section in (response_record.rr, response_record.auth, response_record.ar):
+                    for rr in rr_section:
+                        if (rr.rtype, rr.rname) not in records_by_type:
+                            records_by_type[(rr.rtype, rr.rname)] = []
+                        records_by_type[(rr.rtype, rr.rname)].append(rr)
+                        print(f"Cached record:\n{rr}", end="\n\n")
+                        self.update_cache((rr.rtype, rr.rname), records_by_type[(rr.rtype, rr.rname)], rr.ttl)
 
             return response
         except Exception as e:
