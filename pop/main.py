@@ -57,7 +57,7 @@ def pretty_print_email(email_data):
     print('Body:', email_data['body'])
 
 
-def connect_pop3_server(user, password, server, port):
+def read_last_message(user, password, server, port):
     pop_server = poplib.POP3_SSL(server, port)
     pop_server.user(user)
     pop_server.pass_(password)
@@ -76,12 +76,7 @@ def connect_pop3_server(user, password, server, port):
 
 
 if __name__ == "__main__":
-    user = EMAIL_ADDRESS
-    password = PASSWORD
-    server = 'pop.yandex.com'
-    port = 995
-
-    message = connect_pop3_server(user, password, server, port)
+    message = read_last_message(EMAIL_ADDRESS, PASSWORD, 'pop.yandex.com', 995)
     if message:
         email_data = parse_email(message)
         pretty_print_email(email_data)

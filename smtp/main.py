@@ -21,7 +21,6 @@ with open(MAIL_INFO_DIR / 'message.txt') as file:
 
 msg = MIMEMultipart()
 msg['From'] = EMAIL_ADDRESS
-msg['To'] = config['recipient']
 msg['Subject'] = config['subject']
 
 msg.attach(MIMEText(source_message, 'plain'))
@@ -37,5 +36,9 @@ for attachment_file in config['attachments']:
 server = smtplib.SMTP('smtp.yandex.ru', 587)
 server.starttls()
 server.login(EMAIL_ADDRESS, PASSWORD)
-server.sendmail(EMAIL_ADDRESS, config['recipient'], msg.as_string())
+
+for recipient in config['recipients']:
+    msg['To'] = recipient
+    server.sendmail(EMAIL_ADDRESS, recipient, msg.as_string())
+
 server.quit()
