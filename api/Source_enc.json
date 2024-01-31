@@ -1,16 +1,16 @@
 {
     "version": "1.0",
-    "sourceName": "GBox\u5b98\u65b9\u8f6f\u4ef6\u6e90",
+    "sourceName": "GBoxu5b98u65b9u8f6fu4ef6u6e90",
     "sourceAuthor": "GBox Official",
     "sourceExportEnable": true,
-    "sourceLinkTitle": "\u4e3b\u9875",
-    "sourceLinkUrl": "http:\/\/gbox.run",
-    "sourceImage": "http:\/\/gbox.run\/Public\/images\/source.png",
+    "sourceLinkTitle": "u4e3bu9875",
+    "sourceLinkUrl": "http://gbox.run",
+    "sourceImage": "http://gbox.run/Public/images/source.png",
     "sourceUpdateTime": "2024-01-30T19:00:00+0800",
-    "sourceDescription": "GBox\u5b98\u65b9\u8f6f\u4ef6\u6e90\uff0c\u6e90\u5185App\u5747\u6765\u4e4b\u4e92\u8054\u7f51\uff0c\u4ec5\u7528\u4e8e\u5b66\u4e60\u4ea4\u6d41\u3002\u5982\u6709\u5192\u72af\uff0c\u8bf7\u8054\u7cfb\u5220\u9664\uff0c\u90ae\u7bb1\uff1agboxrun@gmail.com",
+    "sourceDescription": "GBoxu5b98u65b9u8f6fu4ef6u6e90uff0cu6e90u5185Appu5747u6765u4e4bu4e92u8054u7f51uff0cu4ec5u7528u4e8eu5b66u4e60u4ea4u6d41u3002u5982u6709u5192u72afuff0cu8bf7u8054u7cfbu5220u9664uff0cu90aeu7bb1uff1agboxrun@gmail.com",
     "appCategories": [
-        "\u5de5\u5177",
-        "\u6a21\u62df\u5668"
+        "u5de5u5177",
+        "u6a21u62dfu5668"
     ],
-    "appRepositories": "AwHfgoQOulWPnlWFQX\/0VghT6EhWTQYaobjJs23E8kMYbb9oC4yV9Lmnb7sMMIxExDg\/5e9r+nCN58UdVtvI1NTaosGtaKPHSo\/NMVez35qjoLRY5yLq4nPP6qob7hg\/yDmno5geHty+6Lz53x7IuRiSfar6\/mgy8q1QLbNRcWf0F3xwEM52iJwL4s5f\/yy88VIKOG+yfNXcBrhq1t\/foLoJoIJoA17f0B+I8gnMcv9hzuZC8I\/n6G11QgOc0X0BsO6ptwZEq4PaVPD986aIkzSjAbxNID1oORDDmE\/aaXtLEtOgZrW64VO6jTOrZJUEOb1smF\/u6+KG4+5wqbkURoQ5yNP+lXl4UpNL93\/xzpVoGD9hyOr6AZJtMVwUTzNCn88KIwC4gX1TZ9f9a41\/IxPM02hflmk1Zs0VXBQaHXAvL67U0vXUXKrp5HSpAb6N76A3PT6\/TQ7mWC97ztAMbopjS2DZbLdih\/EuIHLRR1Vp89oFb\/8i4AaHpK4VDBfTFhO3XFMeG6W9WSCIaJphQnMfQMqT4eHDJGxPnhBj037jQC3MPYL666ke5q6F5lESgh1OlZ\/eUZsgLuBROykhGaSOmL1rmD\/JlaZAj\/cJZz0MZT6gTwvMXqiPlsQODGz4NEIxN4GpCXqpBMWslBd1QxpGQrJTzY0lk1uDtnMm\/Er7ujb8F6sFmnA0EBRbqBTtiSlEj6yK2C5UDzRfQS1BCnwJWsbTW+bh87ztOe8akV55e4IpsOBg6X\/NxBxRjt24RsLgtqCrps8ZhVvrNiIqOAoBCRkFB\/2PN3ni2TB+aUMOjnM\/J0R2lbMXet81gK86fAYKmlBNxyOelMXJW64RT1fwIRgvaT2LmczY9a+Mi2X4FkD0NCE6d4UTCxpKqQgE5phoc6JBh7GfsZzVV9ZHwIaIQzMvlXe2zjYjH\/bp9cuTeCctYpIGKxGF\/h35f9vKrXgRWl\/P6NdVIjNclrcF4zj8IztZYHckMOCz36PT3W19CEtM1f8jJ+3fscAdwSPc0\/rtZ7Z0U2KlzLQOo94\/HFd4ufyj3mstWHlCFIf3ygG15PKUQnpnzcrsbhBxyqbhhucjYlBrBrKV+EQy23CWJUUiM1u21krQg6Cjym7zL0yGqeaCjF15KlUGq90RvDnDj\/uEkQ+xptHPIRIQ5J0NPFSi4iAUhxxnziZK0yfVqtp9Jr2lW9DGv6WMufjLxi126v3GxnRV8CZtHwyOrkv0BjdXZNaiv6RUefd2uwXlna3\/4KT5H0VEJ1DlzN8gymnCykvjAvWHLy5nuU05QP0KsdnA5meiYqGKGq0w\/+nuqpPp4hFQ9Va2OF46mU+sGVAwlfWsn6pk+lLOS\/i3YKKaAzLYjeCAWeuW61vA4O++jUIRil9Pfkew1zL4IsgCIY8n7A+iWGdC+iVszsgJnTx9CjDdr68mi\/svNw2yC9IwQdq4qYdI0m59hoLe0xYBbKX78L1KPmD+JokRLN38Eo\/PAgfIIF5Dd0DP3gW06D8zUZnfHY\/qRMNqpUkbMDGKZ2GHE1ciWN0CqPEzPsx97Hf3vj8pBvBEn0IXNmi8bUqRORf5DFPimLqMFZ2yjoMX2rsDDgJIdw7gXGqrd80mvE1PUf1P9f+GSVqN9rBkeu\/bfysnOptwpXZsFYgEMYD\/II76hlrGFc7sY3yEgbJdg7RJxbcV9BL+kAAtkhmbiuv3ymDjkw=="
+    "appRepositories": "AwHfgoQOulWPnlWFQX/0VghT6EhWTQYaobjJs23E8kMYbb9oC4yV9Lmnb7sMMIxExDg/5e9r+nCN58UdVtvI1NTaosGtaKPHSo/NMVez35qjoLRY5yLq4nPP6qob7hg/yDmno5geHty+6Lz53x7IuRiSfar6/mgy8q1QLbNRcWf0F3xwEM52iJwL4s5f/yy88VIKOG+yfNXcBrhq1t/foLoJoIJoA17f0B+I8gnMcv9hzuZC8I/n6G11QgOc0X0BsO6ptwZEq4PaVPD986aIkzSjAbxNID1oORDDmE/aaXtLEtOgZrW64VO6jTOrZJUEOb1smF/u6+KG4+5wqbkURoQ5yNP+lXl4UpNL93/xzpVoGD9hyOr6AZJtMVwUTzNCn88KIwC4gX1TZ9f9a41/IxPM02hflmk1Zs0VXBQaHXAvL67U0vXUXKrp5HSpAb6N76A3PT6/TQ7mWC97ztAMbopjS2DZbLdih/EuIHLRR1Vp89oFb/8i4AaHpK4VDBfTFhO3XFMeG6W9WSCIaJphQnMfQMqT4eHDJGxPnhBj037jQC3MPYL666ke5q6F5lESgh1OlZ/eUZsgLuBROykhGaSOmL1rmD/JlaZAj/cJZz0MZT6gTwvMXqiPlsQODGz4NEIxN4GpCXqpBMWslBd1QxpGQrJTzY0lk1uDtnMm/Er7ujb8F6sFmnA0EBRbqBTtiSlEj6yK2C5UDzRfQS1BCnwJWsbTW+bh87ztOe8akV55e4IpsOBg6X/NxBxRjt24RsLgtqCrps8ZhVvrNiIqOAoBCRkFB/2PN3ni2TB+aUMOjnM/J0R2lbMXet81gK86fAYKmlBNxyOelMXJW64RT1fwIRgvaT2LmczY9a+Mi2X4FkD0NCE6d4UTCxpKqQgE5phoc6JBh7GfsZzVV9ZHwIaIQzMvlXe2zjYjH/bp9cuTeCctYpIGKxGF/h35f9vKrXgRWl/P6NdVIjNclrcF4zj8IztZYHckMOCz36PT3W19CEtM1f8jJ+3fscAdwSPc0/rtZ7Z0U2KlzLQOo94/HFd4ufyj3mstWHlCFIf3ygG15PKUQnpnzcrsbhBxyqbhhucjYlBrBrKV+EQy23CWJUUiM1u21krQg6Cjym7zL0yGqeaCjF15KlUGq90RvDnDj/uEkQ+xptHPIRIQ5J0NPFSi4iAUhxxnziZK0yfVqtp9Jr2lW9DGv6WMufjLxi126v3GxnRV8CZtHwyOrkv0BjdXZNaiv6RUefd2uwXlna3/4KT5H0VEJ1DlzN8gymnCykvjAvWHLy5nuU05QP0KsdnA5meiYqGKGq0w/+nuqpPp4hFQ9Va2OF46mU+sGVAwlfWsn6pk+lLOS/i3YKKaAzLYjeCAWeuW61vA4O++jUIRil9Pfkew1zL4IsgCIY8n7A+iWGdC+iVszsgJnTx9CjDdr68mi/svNw2yC9IwQdq4qYdI0m59hoLe0xYBbKX78L1KPmD+JokRLN38Eo/PAgfIIF5Dd0DP3gW06D8zUZnfHY/qRMNqpUkbMDGKZ2GHE1ciWN0CqPEzPsx97Hf3vj8pBvBEn0IXNmi8bUqRORf5DFPimLqMFZ2yjoMX2rsDDgJIdw7gXGqrd80mvE1PUf1P9f+GSVqN9rBkeu/bfysnOptwpXZsFYgEMYD/II76hlrGFc7sY3yEgbJdg7RJxbcV9BL+kAAtkhmbiuv3ymDjkw=="
 }
