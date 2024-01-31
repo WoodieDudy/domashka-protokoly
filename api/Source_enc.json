@@ -1,16 +1,16 @@
 {
     "version": "1.0",
-    "sourceName": "GBox\u5b98\u65b9\u8f6f\u4ef6\u6e90",
+    "sourceName": "GBoxu5b98u65b9u8f6fu4ef6u6e90",
     "sourceAuthor": "GBox Official",
     "sourceExportEnable": true,
-    "sourceLinkTitle": "\u4e3b\u9875",
-    "sourceLinkUrl": "http:\/\/gbox.run",
-    "sourceImage": "http:\/\/gbox.run\/Public\/images\/source.png",
+    "sourceLinkTitle": "u4e3bu9875",
+    "sourceLinkUrl": "http://gbox.run",
+    "sourceImage": "http://gbox.run/Public/images/source.png",
     "sourceUpdateTime": "2024-01-30T19:00:00+0800",
-    "sourceDescription": "GBox\u5b98\u65b9\u8f6f\u4ef6\u6e90\uff0c\u6e90\u5185App\u5747\u6765\u4e4b\u4e92\u8054\u7f51\uff0c\u4ec5\u7528\u4e8e\u5b66\u4e60\u4ea4\u6d41\u3002\u5982\u6709\u5192\u72af\uff0c\u8bf7\u8054\u7cfb\u5220\u9664\uff0c\u90ae\u7bb1\uff1agboxrun@gmail.com",
+    "sourceDescription": "GBoxu5b98u65b9u8f6fu4ef6u6e90uff0cu6e90u5185Appu5747u6765u4e4bu4e92u8054u7f51uff0cu4ec5u7528u4e8eu5b66u4e60u4ea4u6d41u3002u5982u6709u5192u72afuff0cu8bf7u8054u7cfbu5220u9664uff0cu90aeu7bb1uff1agboxrun@gmail.com",
     "appCategories": [
-        "\u5de5\u5177",
-        "\u6a21\u62df\u5668"
+        "u5de5u5177",
+        "u6a21u62dfu5668"
     ],
-    "appRepositories": "AwE5OEmgSHAPL\/sPGXclMlswq+SQkGiuVDu7i6wUTStqvkxAV2J96dV\/jYkH7D9l3H3c0dyBBEAxU4Sxk5UTDGqj5zIZmqxEdMjXUG8avY0fd02QUSs9fz45QhmyzIoEJhauYBiGSgQJxcamgeyF+1OfH+TaWK1O1LAv+FBYC5i5hdyk72ukt9FeaftJjERLJfh52ktUvSOPJI+e1ejaotjjpZdhIZ4+8v38fxXAO+Zw3QMz7vQM9dKK0hf7D9bP\/9ZIeXMcc4znU7718aXhfbNffSfVVDRYFzgzJxLYXjwOQG66EP+ia4lOeUs79VYyzr3+rmlk0s6WICo1i3Dti34SLYAG88wflwThdA9PKvkWxB7uCVxYcWoFDbDp4qs0pk4tf02yO2UlBUQfXBQfO\/qNUOb9UbCr9KxT\/BnAd7YUSF9+Pe92w58y45r2+N2Fk+39BNDZCeHHRlbj\/2PfbqK6B1nIVIJXlaoDJ1zNDblL1DjaIQRVfgnAP6V1fCo6nrUoh5FcrTYzffQ08N9iEawuCGshc6LzhVd1HghM\/8bab4BBResxOoHkHmwJulKy+elQYroYg1jpTu9Hmocdh1InKgmnNxUpNKPcNO1aJ4dfZpjQw5pypUwaHmuSV9TaGui6Z4OvCisErA60GuranQorS68zQXY7h++UrY74OMGYMkWCydAmVhZBYFlnXf8FO3lMF1YbO3tP\/MA8oc0PhSzKXGpP7UNsMl\/cekUJTalS1s9hnpCP8Lwr1hnGERLur+iXVw0GldYp8kG3FvEWvXPEdU1TLXGjmp\/dyeDvMjp4s9z8LemJ4nOTYPuxlgw5oEF5DQiV5lEHZeM23vtDfYWJ9N4\/5mpnrCAuRO\/yDBnqeK8gFkuVEH3cnaiFrco9Y4gOUN8oHAE3fvZ6gBlAK3gLGHrMH7nwYH6f1mR3mKnqdXKu0CHiy6NFxQDVFkcZv7GbybQZ+hRbiJWuVmkA9H\/qvLxyWiiHaELJOTQ3O+dUShd0Pji8ePxoAxN3d8Dn+NJMo\/OEwU6F4M1Py\/moJZLDOifDnfx0\/m31IXXmrqwDIy\/IL9hwsF+y9COwqWjDFxdCr6VadUHhvCWqpPupGJgjhtXXS1farlLdRTakVx4j\/KctxLTblNFrAY9gVlcjXRhycoABOENAlG57tbYzF9SFK54Ebfs1GW+pM8N\/mSw+JPMeVZNS9YmW68pO\/02ZRGWcpg8Y9G7ig9UUWNXlSSiJshyktAvqTNQvYxjaC+UdKTW+zKFn4CsuYwtk1D9KceA="
+    "appRepositories": "AwE5OEmgSHAPL/sPGXclMlswq+SQkGiuVDu7i6wUTStqvkxAV2J96dV/jYkH7D9l3H3c0dyBBEAxU4Sxk5UTDGqj5zIZmqxEdMjXUG8avY0fd02QUSs9fz45QhmyzIoEJhauYBiGSgQJxcamgeyF+1OfH+TaWK1O1LAv+FBYC5i5hdyk72ukt9FeaftJjERLJfh52ktUvSOPJI+e1ejaotjjpZdhIZ4+8v38fxXAO+Zw3QMz7vQM9dKK0hf7D9bP/9ZIeXMcc4znU7718aXhfbNffSfVVDRYFzgzJxLYXjwOQG66EP+ia4lOeUs79VYyzr3+rmlk0s6WICo1i3Dti34SLYAG88wflwThdA9PKvkWxB7uCVxYcWoFDbDp4qs0pk4tf02yO2UlBUQfXBQfO/qNUOb9UbCr9KxT/BnAd7YUSF9+Pe92w58y45r2+N2Fk+39BNDZCeHHRlbj/2PfbqK6B1nIVIJXlaoDJ1zNDblL1DjaIQRVfgnAP6V1fCo6nrUoh5FcrTYzffQ08N9iEawuCGshc6LzhVd1HghM/8bab4BBResxOoHkHmwJulKy+elQYroYg1jpTu9Hmocdh1InKgmnNxUpNKPcNO1aJ4dfZpjQw5pypUwaHmuSV9TaGui6Z4OvCisErA60GuranQorS68zQXY7h++UrY74OMGYMkWCydAmVhZBYFlnXf8FO3lMF1YbO3tP/MA8oc0PhSzKXGpP7UNsMl/cekUJTalS1s9hnpCP8Lwr1hnGERLur+iXVw0GldYp8kG3FvEWvXPEdU1TLXGjmp/dyeDvMjp4s9z8LemJ4nOTYPuxlgw5oEF5DQiV5lEHZeM23vtDfYWJ9N4/5mpnrCAuRO/yDBnqeK8gFkuVEH3cnaiFrco9Y4gOUN8oHAE3fvZ6gBlAK3gLGHrMH7nwYH6f1mR3mKnqdXKu0CHiy6NFxQDVFkcZv7GbybQZ+hRbiJWuVmkA9H/qvLxyWiiHaELJOTQ3O+dUShd0Pji8ePxoAxN3d8Dn+NJMo/OEwU6F4M1Py/moJZLDOifDnfx0/m31IXXmrqwDIy/IL9hwsF+y9COwqWjDFxdCr6VadUHhvCWqpPupGJgjhtXXS1farlLdRTakVx4j/KctxLTblNFrAY9gVlcjXRhycoABOENAlG57tbYzF9SFK54Ebfs1GW+pM8N/mSw+JPMeVZNS9YmW68pO/02ZRGWcpg8Y9G7ig9UUWNXlSSiJshyktAvqTNQvYxjaC+UdKTW+zKFn4CsuYwtk1D9KceA="
 }
