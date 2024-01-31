@@ -1,16 +1,27 @@
 {
-    "version": "1.0",
-    "sourceName": "GBox\u5b98\u65b9\u8f6f\u4ef6\u6e90",
-    "sourceAuthor": "GBox Official",
-    "sourceExportEnable": true,
-    "sourceLinkTitle": "\u4e3b\u9875",
-    "sourceLinkUrl": "http:\/\/gbox.run",
-    "sourceImage": "http:\/\/gbox.run\/Public\/images\/source.png",
-    "sourceUpdateTime": "2024-01-30T19:00:00+0800",
-    "sourceDescription": "GBox\u5b98\u65b9\u8f6f\u4ef6\u6e90\uff0c\u6e90\u5185App\u5747\u6765\u4e4b\u4e92\u8054\u7f51\uff0c\u4ec5\u7528\u4e8e\u5b66\u4e60\u4ea4\u6d41\u3002\u5982\u6709\u5192\u72af\uff0c\u8bf7\u8054\u7cfb\u5220\u9664\uff0c\u90ae\u7bb1\uff1agboxrun@gmail.com",
-    "appCategories": [
-        "\u5de5\u5177",
-        "\u6a21\u62df\u5668"
-    ],
-    "appRepositories": "AwHz7SmzyolCxJxG3pwQtZQGKhuiljwbi3I88HJAJQ4obwEAOO9zJjrxWra62Ts\/Fzrs3ugqH8DDqrpUGmYpZSIZ1bEfX0lCGrtLaLIIgkFUteLhts0axGgzcWBBodws9tSow5SnZsYj+2HYtW4Zd6ZfOzNS83WiG49DA3KwhcBphV0IViC2hkHoCkZI78dGjhqXR8rveJW6ovwaRqyBNysMDdVcbd6pwb11JkYElpg0hoeshvzM158fohnubL+dRZPvGlrkwFuW3qjUWRYbFK1gXg\/5rZ7U6unpGU6y28bta0xj9ta6Yaafg5gWKNYpa\/ja2t3dem\/IO\/noykkwz+Ydnw9\/fvsQGavALogwP32oXZqPCUszfwnv5mBiAhpW2DqOKYcsNi5C8e9Ipjv9kU95SLlR8UDT96EohXbqrcHkCXib1F8Lc9s+qjlRD81tuo2v6aW9WtsdYZBOtPREDtRSPrepuTGMADi9mAfttGYeCx2bdi0C6S4T9vzzh\/3OC+06IvutwOkOJJr85dpvqahD8tLU72EGcNf6sEDd+K+51CYgZs6ZFBRRhHudlWNXSNN8F6gStY\/7D8DiTOrKhZpsGoAaaMoC\/kLvMhGHu2G0\/jOrmMQ\/eQu4FyrH8SGwAfIEZLU\/XS6x41xAzfwcoBq9jWaAxz354yuk3yiOLj0Pdc\/oz63viyBq66RHdJg0qc70QuKYzXKYZQP7L\/miAYFHMTCjp16Rmf+P8AMSeowwwGmlcTsW0LJlO+Ss6+MnDIcYnWDT+qMbQ\/OpMhnmzsMcWteEku0MV6OLgoTspNyezfpT2q1rVBOvd9FVcQ3AunF\/UkFA+A6qN1u\/hIBWlR0DCG\/yPWxHWDQw3K+rWSAbKrjlgwfIPh14TpKiZghUa\/A9Ib6IMGEgQCKsmZq0sGwBu3E1xgSq5iNISm0+osnjK2TrUmfe3L3o5I\/6KG8IJ9pfB2P61iyr\/uBxUdOTp0Amg6LpJEcLhdopm6zcQ41M7HgMELlQYdoMIMlVk\/xSqlNedl5VZouPiQN38QMyOWNIfhcHM1kL26TW5QVA58cWQmiCrmJGss8BpkO7KK6yzlR4XYGjPzBuGPzhXuSbgj0JbgiP0ERVmzBRbwaCP40pJRd\/L6CmIYei8d6cdeajgRcIajPqYtsa3V1+rd4u\/P3hpuMCVrLen\/U36ZeYtRyGvBCNFT7qIKEDRNyO3lyljCcy+NxNXd5VcKwUo3t7bDguQgM\/zxlDmFBDwnOEeW3fFrDbD1\/aMjk4NCodU7GftjMkIgSZa1WCEjn1JFMyVFCpg6cwFHszHIzVJE\/KHmw5RFrChZK\/t1lSq2CTczc2Ami7lXLsjmRSIg1wzU5sI6BhL5Un3VeD1ktqFAyocStb7ug82lGpulhcVbjbOURgzfPNyMXlajHP6TvzWmZeIzvhqSvBTgJ5fvKZOmJvHHBmd04Lf4BPU31QJROas6kmtSn\/SJCo\/Z5VOBU7dwjPHiZHmISaR4Pm7QGU+WodAn1CCuLz0dz3FCP8mjb5WM0XBo3Z99mUjrQs19\/IKmCc2OmExrQmC36z4DO9AGCjA8wnQe7kVJzUHu9An3SBY4G1Okw0Emr5v0TGln5JBwYuVzANaR2hcaNMbAWJ9rzPCHlchUqbx0Wu6LkHoutJbrw9RDNq0ddSfpXRrPwcI8Ij\/2pEl1VkLOIFhMv7zmyLYWrYAQ=="
+  "version":"1.0",
+  "sourceName":"GBox官方软件源",
+  "sourceAuthor":"GBox Official",
+  "sourceExportEnable":true,
+  "sourceLinkTitle":"主页",
+  "sourceLinkUrl":"http://gbox.run",
+  "sourceImage":"http://gbox.run/Public/images/source.png",
+  "sourceUpdateTime":"2024-01-30T19:00:00+0800",
+  "sourceDescription":"GBox官方软件源，源内App均来之互联网，仅用于学习交流。如有冒犯，请联系删除，邮箱：gboxrun@gmail.com",
+  "appCategories":[
+    "工具",
+    "模拟器"
+  ],
+  "appRepositories":[
+    {
+      "appType":"SELF_SIGN",
+      "appCateIndex":0,
+      "appUpdateTime":"2023-09-18T17:15:00+0800",
+      "appName":"GBox",
+      "appVersion":"4.5.2",
+      "appImage":"https://gbox.run/Public/appicons/GBox.png",
+      "appPackage":"https://ts.gbox.run/GBox_v4.5.2.ipa",
+      "appDescription":"更新内容:\n 1. 增加签名配置，需要自行在GBox设置中开启高级调试模式\n2. 增加Alist网页源的支持\n3. 添加网站源功能(复制网站链接即可到软件源内添加)\n4. 增加源内文件下载功能\n5. 增加智能后台开关\n6. 增加修复企业证书的功能（只适用于iOS 14.0-15.7.1 和 16.0-16.1.2）\n"
+    }
+  ]
 }
